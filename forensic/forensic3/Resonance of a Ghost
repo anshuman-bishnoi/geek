@@ -1,0 +1,18 @@
+Resonance of a Ghost
+
+Challenge Description
+It was 03:14 AM when the monitoring station in CC-3 flagged a 60-second spike coming from Node B4—a terminal that hasn't been officially powered on since the campus network upgrade.
+
+The security team labeled the capture as "The Resonance." On the surface, it’s nothing but a pocket of high-entropy digital corruption—chaotic, rhythmic, and seemingly meaningless. Every automated forensic suite we've thrown at it has returned a total null result. It’s as if the data is purposely hiding in the static, mocking our standard reconstruction protocols.
+
+Our lead investigator left a single, cryptic note on the terminal before walking off the project:
+
+"There is a ghost in the noise, and it refuses to speak. It’s not just hidden; it’s choosing to be invisible."
+
+The file is all that remains. Make it speak.
+
+This challenge has flag(s) with following format(s)
+
+geek{...}
+
+attechment: https://files.ctf7.com/media/challenge_attachments/node_b4_capture.zip
